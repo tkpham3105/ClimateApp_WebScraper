@@ -7,7 +7,7 @@ Perform Web Scraping on open sources for articles (A), events (E) and environmen
 
 1. Social media
 - Instagram (A, E, P)
-- Facebook (A, E, P)
+- Facebook (A, E, P) _ DONE
 - Twitter (A)
 - Reddit (A)
 
